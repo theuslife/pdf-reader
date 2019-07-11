@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #282c34;
+  text-align: center;
+}
+
+.text {
+  color: aliceblue;
+}
+
+h1: {
+
+}
+
+.button { 
+  margin: 40;
+}
+
+.nav { 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+
+}
+
